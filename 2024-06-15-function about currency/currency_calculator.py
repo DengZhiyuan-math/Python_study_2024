@@ -4,3 +4,4 @@ str_amount = int(input("Enter the amount in USD: "))
 result = str_amount * 0.88
 # Display the result
 print(result)
+
