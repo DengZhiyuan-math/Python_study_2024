@@ -20,3 +20,4 @@ change = amount - total_price
 
 # display the change
 print("The change is: ", change)
+
