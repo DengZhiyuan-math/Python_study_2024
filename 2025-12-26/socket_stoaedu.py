@@ -1,7 +1,7 @@
 import socket
 import ssl
 
-host = 'stoaedu.ch'
+host = 'badi-info.ch'
 port = 443
 
 # 1. 创建 TCP socket
